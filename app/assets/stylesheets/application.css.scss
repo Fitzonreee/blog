@@ -255,6 +255,7 @@ a {
 	}
 	textarea {
 		min-height: 180px;
+    resize: vertical;
 	}
 	input[type="submit"] {
 		outline: none;
